@@ -1,0 +1,23 @@
+/* 
+YER DEĞİŞTİRME BUTTON OZLELIKLLERI
+*/
+/*  arıyı ileri ziplatma */
+#ari_zipla{
+    position: fixed;
+
+    top: 520px;
+    right: 900px;
+    width: 80px;
+    height: 60px;
+    background-color: rgb(248, 12, 189);
+}
+/*  arıyı geriye ziplatma */
+#ari_don{
+    position: fixed;
+
+    top: 520px;
+    right: 800px;
+    width: 80px;
+    height: 60px;
+    background-color: rgb(236, 236, 17);
+}
