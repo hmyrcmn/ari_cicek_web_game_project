@@ -1,5 +1,4 @@
 # ari_cicek_web_game_project
-# web_game_project
 HTML,CSS, JS Kullanılarak  basit arı-çiçek eşleşmesi temelinde oluşturulmuş web oyunudur.
 # Web Oyun Projem-Arı Çiçek Oyunu
 <br/>![oyundan görüntüler](https://miro.medium.com/max/1400/1*Qwg4HzGtX-n31VhMbT7rTg.png)<br/>
