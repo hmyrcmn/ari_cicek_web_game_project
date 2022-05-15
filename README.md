@@ -6,7 +6,7 @@ HTML,CSS, JS Kullanılarak  basit arı-çiçek eşleşmesi temelinde oluşturulm
 HTML CSS JS(JAVASCRİPT) Kullanılarak, js içinde herhangi bir hazır kütüphane olmayan ,2 button ile canvas çerçevesiyle iletişim kurularak arı hareketi saplanmış ve çiçek ile eşleştirilerek puan artışı sağlandı , kullanıcı ile window. alert ile iletişim kuruldu, arının belirli seviyenin (y ekseni) altına düşmesi durumunda oyunun sonlandığı web tabanlı basit bir oyun tasarlanmıştır.
 # PROJE KULLANIMI
 **1.yol :** Proje dosyasını (arı__cicek_oyunu) indirdikten sonra index.html dosyasını bilgisayarınızdaki browser (seçtiğiniz: google -brave-edge …) aracılığı ile görüntüleyebilir ,gerekli talimatlar doğrultusunda oyunu oynayabilirsiniz.
-**DİKKAT!!** Oyunu oynarken cihazınızın sesinin açık olduğundan emin olunuz.  **ARININ AĞIZ KISMINI ÇİÇEĞİN ORTA NOKTASINA DENK GETİRDİKÇE PUAN KAZANILMAKTADIR. "EYLENMEYİ UNUTMAYINIZ !! "**
+<br/>**DİKKAT!!** Oyunu oynarken cihazınızın sesinin açık olduğundan emin olunuz.  <br/>**ARININ AĞIZ KISMINI ÇİÇEĞİN ORTA NOKTASINA DENK GETİRDİKÇE PUAN KAZANILMAKTADIR. "EYLENMEYİ UNUTMAYINIZ !! "**
 <br/>**2.yol : [İletilen linke tıklamanız yeterli.](http://hmyrcmn.eu5.org/)**
 # Proje geliştirilirken hangi teknolojilerden yararlanıldığı.
 
